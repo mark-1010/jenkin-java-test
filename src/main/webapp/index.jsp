@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Learn Here, Lead Anywhere!</h1>
+<h1><font color='red'>Learn Here, Lead Anywhere!</font></h1>
 <p>
 <h1>The quick quick</h1>
 <marquee><h2>Hello World!</h2> </marquee>
