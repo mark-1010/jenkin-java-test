@@ -6,7 +6,7 @@ pipeline{
     stages{
         stage('Get Code'){
             steps{
-              git 'https://github.com/mark-1010/02-devops-maven-app.git' 
+              git 'https://github.com/mark-1010/jenkin-java-test.git' 
             }
         }
         stage('Build'){
